@@ -1,9 +1,11 @@
 Writeup
-
+--------
 Step1:Create a Databse for school
 Step2: Create Tables for student,subject,classes.
 Step3:Insert data into respective tables.
 Step4:Display details from tables using select statement.
 
 Github Link:
+------------
+https://github.com/Arav105/Phase3-Pr-1
 
